@@ -18,9 +18,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-**我的开源项目:**
+**我的项目:**
 
-<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/486a90223ad7e70faf079c62682bb6e26794d91a7eb6495093aacc1542e02c46/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616268697368656b6e61696964752673686f775f69636f6e733d74727565267468656d653d676f7468616d"><img src="https://camo.githubusercontent.com/486a90223ad7e70faf079c62682bb6e26794d91a7eb6495093aacc1542e02c46/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616268697368656b6e61696964752673686f775f69636f6e733d74727565267468656d653d676f7468616d" alt="abhisheknaiidu" data-canonical-src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&amp;show_icons=true&amp;theme=gotham" style="max-width: 100%;"></a>
+<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/486a90223ad7e70faf079c62682bb6e26794d91a7eb6495093aacc1542e02c46/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616268697368656b6e61696964752673686f775f69636f6e733d74727565267468656d653d676f7468616d"><img src="https://camo.githubusercontent.com/486a90223ad7e70faf079c62682bb6e26794d91a7eb6495093aacc1542e02c46/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616268697368656b6e61696964752673686f775f69636f6e733d74727565267468656d653d676f7468616d" alt="abhisheknaiidu" data-canonical-src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&amp;show_icons=true&amp;theme=gotham" style="max-width: 60%;"></a>
 </p>
 
 ----------
@@ -41,7 +41,7 @@
 
 ✍️ **我的文章:**
 <details style="cursor: pointer;">
-  <summary>Vue项目踩坑经验总结</summary>
+  <summary>Rewrite Blog</summary>
   <div style="width: 98%; margin: 0 auto">
       <ul>
         <li><a href="https://seersu.me/posts/lifestyle/rewrite-blog/">Rewrite Blog</a></li>
