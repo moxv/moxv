@@ -9,8 +9,7 @@
 - 📫 我的[邮箱](mailto:moxv.cn@gmail.com);
 - 📝 [我的主页](https://seersu.me)
 <p dir="auto"><a href="https://buymeacoffee.com/seersu" rel="nofollow"><img src="https://camo.githubusercontent.com/45ce6667a35b63fd6a1ba6978d030a7f52ff5b1b262c5c8aa3ece29afc469ac8/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d7265642e706e67" alt="Buy Me A Coffee" width="150" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" style="max-width: 100%;"></a></p>
-<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/486a90223ad7e70faf079c62682bb6e26794d91a7eb6495093aacc1542e02c46/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616268697368656b6e61696964752673686f775f69636f6e733d74727565267468656d653d676f7468616d"><img src="https://camo.githubusercontent.com/486a90223ad7e70faf079c62682bb6e26794d91a7eb6495093aacc1542e02c46/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616268697368656b6e61696964752673686f775f69636f6e733d74727565267468656d653d676f7468616d" alt="abhisheknaiidu" data-canonical-src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&amp;show_icons=true&amp;theme=gotham" style="max-width: 100%;"></a>
-</p>
+
 
 **技术栈 与 开发工具:**
 
@@ -21,7 +20,8 @@
 
 **我的开源项目:**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=likaia&repo=chat-system)](https://github.com/)
+<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/486a90223ad7e70faf079c62682bb6e26794d91a7eb6495093aacc1542e02c46/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616268697368656b6e61696964752673686f775f69636f6e733d74727565267468656d653d676f7468616d"><img src="https://camo.githubusercontent.com/486a90223ad7e70faf079c62682bb6e26794d91a7eb6495093aacc1542e02c46/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616268697368656b6e61696964752673686f775f69636f6e733d74727565267468656d653d676f7468616d" alt="abhisheknaiidu" data-canonical-src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&amp;show_icons=true&amp;theme=gotham" style="max-width: 100%;"></a>
+</p>
 
 ----------
 
