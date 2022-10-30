@@ -8,7 +8,7 @@
 - 💬 如果你对我感兴趣，可以 issues 进一步交流。
 - 📫 我的[邮箱](mailto:moxv.cn@gmail.com);
 - 📝 [我的主页](https://seersu.me)
-<p dir="auto"><a href="https://buymeacoffee.com/seersu" rel="nofollow"><img src="https://camo.githubusercontent.com/45ce6667a35b63fd6a1ba6978d030a7f52ff5b1b262c5c8aa3ece29afc469ac8/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d7265642e706e67" alt="Buy Me A Coffee" width="100" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" style="max-width: 40%;"></a></p>
+<p dir="auto"><a href="https://buymeacoffee.com/seersu" rel="nofollow"><img src="https://camo.githubusercontent.com/45ce6667a35b63fd6a1ba6978d030a7f52ff5b1b262c5c8aa3ece29afc469ac8/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d7265642e706e67" alt="Buy Me A Coffee" width="50" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" style="max-width: 40%;"></a></p>
 
 
 **技术栈 与 开发工具:**
