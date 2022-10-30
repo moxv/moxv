@@ -3,7 +3,7 @@
 
 你好， 我是 [SeerSu](https://seersu.me) 。
 
-  <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="40%" />
+  <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="300" height="40%" />
 
 - 💬 如果你对我感兴趣，可以 issues 进一步交流。
 - 📫 我的[邮箱](mailto:moxv.cn@gmail.com);
@@ -20,7 +20,17 @@
 
 **我的项目:**
 
-<p align="center" dir="50%"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/486a90223ad7e70faf079c62682bb6e26794d91a7eb6495093aacc1542e02c46/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616268697368656b6e61696964752673686f775f69636f6e733d74727565267468656d653d676f7468616d"><img src="https://camo.githubusercontent.com/486a90223ad7e70faf079c62682bb6e26794d91a7eb6495093aacc1542e02c46/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616268697368656b6e61696964752673686f775f69636f6e733d74727565267468656d653d676f7468616d" alt="abhisheknaiidu" data-canonical-src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&amp;show_icons=true&amp;theme=gotham" style="max-width: 20%;"></a>
+|Base Info|Dashboard Data|
+|----------------------------------------------------------------------|----------------------------------------------------------------------|
+| __Hi, I am Jimmy! 👋__<br/><br/>1. 🔭 I’m currently working on Canton, China<br/>2. 🌱 I’m currently learning MySql, Egg<br/>3. 📫 How to reach me: moxv.cn@gmail.com<br/>4. 💬 Leave me a word : https://github.com/moxv/sponsor-page/issues/new | [![SeerSu's github stats](https://github-readme-stats.vercel.app/api?username=moxv&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) |
+
+
+<div align=center><b>Here is a mini program for discount. You can scan it by wechat for detail.</b></div>
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80" />
+</p>
+
 </p>
 
 ----------
