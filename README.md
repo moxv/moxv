@@ -3,7 +3,7 @@
 
 你好， 我是 [SeerSu](https://seersu.me) 。
 
-  <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
+  <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="40%" />
 
 - 💬 如果你对我感兴趣，可以 issues 进一步交流。
 - 📫 我的[邮箱](mailto:moxv.cn@gmail.com);
