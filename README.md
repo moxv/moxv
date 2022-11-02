@@ -7,9 +7,6 @@
 <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="300" height="40%" />
 </p>
 
-- 💬 如果你对我感兴趣，可以 issues 进一步交流。
-- 📫 我的[邮箱](mailto:moxv.cn@gmail.com);
-- 📝 [我的主页](https://seersu.me)
 <p dir="auto"><a href="https://buymeacoffee.com/seersu" rel="nofollow"><img src="https://camo.githubusercontent.com/45ce6667a35b63fd6a1ba6978d030a7f52ff5b1b262c5c8aa3ece29afc469ac8/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d7265642e706e67" alt="Buy Me A Coffee" width="100" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" style="max-width: 40%;"></a></p>
 
 <p dir="auto"><a href="https://twitter.com/Su_Seer" rel="nofollow"><img src="https://camo.githubusercontent.com/d7e35abb4ad4c53cd34e731a214e8439fae705e554915519bab3e3a53f01ffa7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547769747465722d3144413146323f7374796c653d666c61742d737175617265266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="" data-canonical-src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;"></a>
