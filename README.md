@@ -2,7 +2,7 @@
 <br />
 
 你好， 我是 [SeerSu](https://seersu.me) 。
-
+![](https://cdn.jsdelivr.net/gh/xxx/xxx@main/assets/github-contribution-grid-snake.svg)
 <p align="center">
 <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="300" height="40%" />
 </p>
