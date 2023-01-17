@@ -29,22 +29,6 @@ jobs:
         type: book
         format: csv
         dir: ./data/douban
-        
-    - name: music
-      uses: lizheming/doumark-action@master
-      with:
-        id: moxv
-        type: music
-        format: csv
-        dir: ./data/douban
-        
-    - name: game
-      uses: lizheming/doumark-action@master
-      with:
-        id: moxv
-        type: game
-        format: csv
-        dir: ./data/douban
   
     - name: Commit
       uses: EndBug/add-and-commit@v8
