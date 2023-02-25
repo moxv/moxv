@@ -26,7 +26,7 @@ jobs:
       uses: lizheming/doumark-action@master
       with:
         id: moxv
-        type: music
+        type: book
         format: csv
         dir: ./data/douban1
   
