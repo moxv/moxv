@@ -20,7 +20,7 @@ jobs:
         id: moxv
         type: movie
         format: csv
-        dir: ./data/douban
+        dir: ./data/douban1
 
     - name: music
       uses: lizheming/doumark-action@master
@@ -28,7 +28,7 @@ jobs:
         id: moxv
         type: music
         format: csv
-        dir: ./data/douban
+        dir: ./data/douban1
   
     - name: Commit
       uses: EndBug/add-and-commit@v8
